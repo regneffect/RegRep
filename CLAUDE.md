@@ -107,6 +107,20 @@ When generating multiple editions from a shared content source, use subagents in
 
 ---
 
+## Source Materials
+
+### Youth and Young Adult Peer Support (YAYAPS) Facilitator Manual
+- **Authors**: Jessi Davis & Darcy Kues
+- **Publisher**: South Southwest MHTTC / UT Austin Steve Hicks School of Social Work
+- **Funding**: SAMHSA Grant #6H79SM081778
+- **Date**: May 2024
+- **Structure**: 3-day intensive, 13 modules (~24 hours total)
+- **Full Index**: `references/yayaps-facilitator-manual-index.md`
+- **Adaptation Status**: Mapped for SCBF 2.0 edition generation
+- **Citation Modules**: Harrington refs in Modules 3, 4, 5, 11; NAPS refs in Modules 3, 6, 9, 12
+
+---
+
 ## Development Workflow
 
 1. All work happens on feature branches.
