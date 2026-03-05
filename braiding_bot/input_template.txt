@@ -1,0 +1,44 @@
+FILLED INPUT TEMPLATE EXAMPLE (OAFC-only; Hogg/OJJDP placeholders kept as [NEEDED])
+
+[DOC:OAFC_App]
+- Program: Court-Connected Recovery Bridge (CCRB)
+- RFA: OAFC-25-0003
+- Strategy: I04 - Address the Needs of Criminal Justice-Involved Persons
+- Population: TAY ages 12-24 with OUD/SUD involved with Harris County juvenile and young adult courts/probation pathways
+- Target volume: 50 youth/year
+- Targets: 85% assessed within 14 days; 75% treatment initiation; 70% 90-day completion; 50% 12-month YRC engagement; 150+ naloxone kits annually
+- Staffing named: Program Director (LCDC), Program Manager, Youth Peer Recovery Specialists, Certified Family Partner, Data/Evaluation Coordinator
+
+[DOC:Project_Narrative]
+- 90-day model:
+  - Days 1-7 intake/assessment; Days 8-30 stabilization; Days 31-60 active navigation; Days 61-90 transition planning
+  - Months 4-15 YRC continuing care (APG-informed)
+- MOUD linkage: eligible youth 16+ referred for MOUD clinical assessment; 14-day target
+
+[DOC:OAFC_NOFA]
+- Non-duplication: OAFC funds cannot reimburse costs reimbursed by another source; grantee must demonstrate no double payment
+- Indirect cap: 15% MTDC maximum in NOFA
+- Reimbursement basis + documentation: invoices, original receipts, proof of payment
+- Salary documentation required for reimbursement: PEL; LOE/LEC for exempt; signed/supervisor-approved timesheets for nonexempt
+
+A) PROGRAM IDENTITY
+- Program name: CCRB
+- Geography/service area: RHP Region 3 (Harris County anchor)
+- Core workflow summary: Court referral -> intake/screening/literacy -> MOUD linkage (16+; 14-day target) -> 90-day stabilization -> transition -> YRC continuing care (12 months) -> workforce pathway (18+)
+
+B) STAFF ROLE MAPPING (labels only)
+- LCDC: Program Director - oversight, compliance, court coordination, SCBF supervision
+- RSPS: Youth Peer Recovery Specialists - delivery, MOUD navigation, stabilization, YRC
+- Certified Family Partner: family education/navigation/home visits
+- Peer Supervisor: [NEEDED] (not confirmed as a CCRB budget line)
+- MHPS: [NEEDED] (not confirmed as a CCRB budget line)
+
+C) FUNDERS TO BRAID
+- OAFC: state opioid abatement (defined in OAFC docs)
+- Hogg: [NEEDED: exact initiative/RFP name + restrictions]
+- OJJDP: [NEEDED: exact solicitation name/FY + requirements]
+
+D) ALLOCATION PREFERENCES
+- Will staff split time across awards? [NEEDED]
+- Allocation basis for shared infrastructure: [NEEDED] (percent time vs units vs deliverables)
+- Indirect approach by funder: OAFC uses 10% MTDC per OAFC application; Hogg/OJJDP [NEEDED]

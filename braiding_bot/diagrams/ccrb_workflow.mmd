@@ -1,0 +1,17 @@
+flowchart TD
+  A[Court / Probation referral\nHarris County juvenile & young adult courts\n+ probation pathways] --> B[Intake & consent]
+  B --> C[Screening battery\nSUD/OUD risk + education status + family engagement\n+ literacy screen WRAT-5 or TABE]
+  C --> D{Age 16+ and suspected OUD?}
+  D -- Yes --> E[MOUD clinical assessment linkage\nSRS telehealth clinic\n14-day target]
+  D -- No --> F[Stabilization track\nnon-MOUD clinical linkage as appropriate]
+  E --> G[90-day stabilization]
+  F --> G
+
+  G --> H[RSPS delivery\nMET/CBT + Contingency Mgmt + Recovery coaching\nA-CRA elements via SRS]
+  G --> I[Certified Family Partner\nFentanyl + naloxone + MOUD education\nhome visits + benefits/housing/school advocacy]
+  G --> J[Naloxone distribution\nparticipants + families]
+  G --> K[SCBF curriculum delivery\nvia juvenile probation/CUPS]
+
+  G --> L[Day 90 completion + transition plan\nwarm handoffs + outcomes documentation]
+  L --> M[YRC continuing care\nAPG-informed\nup to 12 months post-stabilization]
+  M --> N[Workforce pathway\nRSPS apprenticeship eligibility at 18+\nJI-RPS training]
