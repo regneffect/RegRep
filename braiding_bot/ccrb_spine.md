@@ -8,7 +8,14 @@
 | Applicant/Prime & Fiscal Backbone | Grace Solutions International (GSI) |
 | Subrecipients | Credible Messengers United (CMU); Strategic Recovery Solutions (SRS) |
 | Evaluation Partner | UTHealth Houston |
-| OAFC RFA | OAFC-25-0003 (CORE Multi-Year) |
+| OAFC RFA | OAFC-25-0003 (CORE Multi-Year Grant Program) |
+| NOFA Total Pool | $50,000,000 across all regions |
+| RHP Region 3 Allocation | 17.5% / $8,727,683 regional pool |
+| Max Award per Applicant | $250,000/year ($750,000 max over 3 years) or 50% of regional funds, whichever is less |
+| Grant Period | 3 years from effective date of grant award |
+| Indirect Cost Cap (NOFA) | 15% de minimis MTDC (GSI application uses 10% MTDC) |
+| Application Deadline | 02/10/2026, 2:00 PM Central Time via OAFC GMS |
+| Awards Anticipated | March-April 2026 |
 | Strategy | I04 - Address the Needs of Criminal Justice-Involved Persons |
 | Target Population | Transitional Age Youth (TAY) ages 12-24 with OUD/SUD involved with Harris County juvenile and young adult courts and juvenile probation pathways |
 | Region | RHP Region 3 (Harris County anchor, 9-county benefit region) |
