@@ -19,7 +19,7 @@ The Braiding Bot operates as two coupled engines:
 | [`interchangeability_matrix.md`](interchangeability_matrix.md) | Audit-shaped matrix: component, staff role, cost type, primary payer, split method, proof artifact, KPI |
 | [`cost_allocation.md`](cost_allocation.md) | Chart-of-accounts labels, timesheet/LOE rules, documentation checklist |
 | [`grant_skins.md`](grant_skins.md) | Universal spine paragraph (8-12 sentences) + 3 funder-specific skin paragraphs (OAFC, Hogg, OJJDP) |
-| [`input_template.txt`](input_template.txt) | Filled input template example using OAFC details (Hogg/OJJDP as [NEEDED] placeholders) |
+| [`input_template.txt`](input_template.txt) | Filled input template example using OAFC details (OJJDP SCA Category 2 partially specified; Hogg as [NEEDED] placeholder) |
 | [`open_questions.md`](open_questions.md) | 12 open questions / [NEEDED] items that must be resolved before full production use |
 | [`diagrams/ccrb_workflow.mmd`](diagrams/ccrb_workflow.mmd) | Mermaid flowchart: CCRB workflow from court referral through YRC and workforce pathway |
 | [`diagrams/timeline_year1.mmd`](diagrams/timeline_year1.mmd) | Mermaid Gantt chart: 12-month phased Year 1 timeline |
@@ -36,13 +36,13 @@ The Braiding Bot operates as two coupled engines:
 ## Compliance Anchors
 
 - **OAFC**: Non-duplication (NOFA Para 140); reimbursement documentation (NOFA Para 531-537)
-- **Federal (OJJDP)**: 2 CFR 200.403 (allowability), 200.405 (allocability), 200.303 (internal controls), 200.430 (salary documentation)
+- **Federal (OJJDP)**: Second Chance Act Youth Offender Reentry Program, Category 2; 2 CFR 200.403 (allowability), 200.405 (allocability), 200.303 (internal controls), 200.430 (salary documentation); MOA/MOU with correctional agencies required; prerelease case planning 90+ days pre-release
 - **Hogg**: [NEEDED: exact initiative/RFP]
 
 ## Information Needed to Complete the Build
 
 See [`open_questions.md`](open_questions.md) for the full list. Key items:
 - Hogg Foundation opportunity name and restrictions
-- OJJDP solicitation (program title/FY)
+- OJJDP SCA Category 2: specific FY solicitation number, award ceiling, deadline, and match requirement
 - MHPS and Peer Supervisor budget confirmation
 - Staff split-funding decisions and allocation basis

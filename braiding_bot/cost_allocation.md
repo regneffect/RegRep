@@ -14,7 +14,7 @@
 ```
 OAFC_CCRB          (state)
 HOGG_CCRB_CAP      (philanthropy) [NEEDED: exact initiative name]
-OJJDP_CCRB         (federal) [NEEDED: solicitation name/FY]
+OJJDP_CCRB         (federal) SCA Youth Offender Reentry Program, Category 2 [NEEDED: FY and solicitation number when published]
 ```
 
 ### Cost Objective Codes (Use Across ALL Funds)

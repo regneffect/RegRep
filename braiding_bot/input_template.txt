@@ -1,4 +1,4 @@
-FILLED INPUT TEMPLATE EXAMPLE (OAFC-only; Hogg/OJJDP placeholders kept as [NEEDED])
+FILLED INPUT TEMPLATE EXAMPLE (OAFC defined; OJJDP SCA Category 2 partially specified; Hogg placeholders kept as [NEEDED])
 
 [DOC:OAFC_App]
 - Program: Court-Connected Recovery Bridge (CCRB)
@@ -36,9 +36,9 @@ B) STAFF ROLE MAPPING (labels only)
 C) FUNDERS TO BRAID
 - OAFC: state opioid abatement (defined in OAFC docs)
 - Hogg: [NEEDED: exact initiative/RFP name + restrictions]
-- OJJDP: [NEEDED: exact solicitation name/FY + requirements]
+- OJJDP: Second Chance Act (SCA) Youth Offender Reentry Program, Category 2 (Strengthening Community-Based Youth Reentry Programs). Requires MOA/MOU with correctional agencies, prerelease case planning 90+ days pre-release, evidence-based post-release case management, validated risk/needs assessment. Application: SF-424 via Grants.gov + JustGrants. SAM.gov registration 30+ days before deadline. [NEEDED: FY solicitation number, award ceiling, deadline, Category 2 match requirement]
 
 D) ALLOCATION PREFERENCES
 - Will staff split time across awards? [NEEDED]
 - Allocation basis for shared infrastructure: [NEEDED] (percent time vs units vs deliverables)
-- Indirect approach by funder: OAFC uses 10% MTDC per OAFC application; Hogg/OJJDP [NEEDED]
+- Indirect approach by funder: OAFC uses 10% MTDC per OAFC application; OJJDP uses NICRA if available or de minimis 10% MTDC per 2 CFR 200.414(f) [NEEDED: confirm GSI NICRA status]; Hogg [NEEDED: initiative-specific indirect policy]
