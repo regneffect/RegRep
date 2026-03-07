@@ -16,7 +16,7 @@
 | Indirect Cost Cap (NOFA) | 15% de minimis MTDC (GSI application uses 10% MTDC) |
 | Application Deadline | 02/10/2026, 2:00 PM Central Time via OAFC GMS |
 | Awards Anticipated | March-April 2026 |
-| Strategy | I04 - Address the Needs of Criminal Justice-Involved Persons |
+| Strategy | I04 - Address the Needs of Criminal Justice-Involved Persons (OAFC Appendix A, Section I, Item 04: evidence-informed treatment including MAT, recovery support, harm reduction for individuals leaving jail/prison, on probation/parole, under community corrections supervision, or in re-entry programs) |
 | Target Population | Transitional Age Youth (TAY) ages 12-24 with OUD/SUD involved with Harris County juvenile and young adult courts and juvenile probation pathways |
 | Region | RHP Region 3 (Harris County anchor, 9-county benefit region) |
 | Target Volume | 50 youth/year (150 over 3 years) |

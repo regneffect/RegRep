@@ -27,6 +27,8 @@ OJJDP funding under the FY25 Second Chance Act Youth Reentry Program (O-OJJDP-20
 ## Compliance Notes
 
 - OJJDP SCA Category 2 statutory authority: Section 211 SCA (PL 110-199, 34 U.S.C. § 60531). Category 1 statutory authority: Section 101 SCA (34 U.S.C. § 10631).
+- OJJDP SCA Category 2 eligible applicants: nonprofit organizations (501(c)(3) or non-501(c)(3), excluding institutions of higher education). GSI qualifies as nonprofit applicant.
+- OJJDP SCA Category 2 MOA/MOU: must include as attachment a draft MOA/MOU or letter of support demonstrating established relationship with correctional agencies that (1) oversee the facility from which applicant proposes to recruit, and (2) oversee community corrections (probation/parole) for the target population. Award recipients must submit fully executed MOAs/MOUs to OJJDP for approval.
 - OJJDP reporting schedule for discretionary programs: Jan-Jun due July 30; Jul-Dec due Jan 30.
 - OJJDP SCA Category 2 requires MOA/MOU with correctional agencies documenting: (1) staff roles/responsibilities, (2) facility access terms, (3) prerelease programming/interventions, (4) data elements and performance measures for grant impact. Fully executed MOA/MOU required for funds exceeding $50,000.
 - OJJDP SCA Category 2 prerelease case planning must begin at least 90 days prior to youth's release.
