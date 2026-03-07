@@ -36,13 +36,13 @@ The Braiding Bot operates as two coupled engines:
 ## Compliance Anchors
 
 - **OAFC**: Non-duplication (NOFA Para 140); reimbursement documentation (NOFA Para 531-537)
-- **Federal (OJJDP)**: Second Chance Act Youth Offender Reentry Program, Category 2; 2 CFR 200.403 (allowability), 200.405 (allocability), 200.303 (internal controls), 200.430 (salary documentation); MOA/MOU with correctional agencies required; prerelease case planning 90+ days pre-release
+- **Federal (OJJDP)**: FY25 SCA Youth Reentry Program, Category 2 (O-OJJDP-2025-172511 / C-OJJDP-2025-00024-PROD; 16.812; anticipated $750,000); Section 211 SCA (34 U.S.C. § 60531); 2 CFR 200.403/200.405/200.303/200.430; MOA/MOU with correctional agencies required; prerelease case planning 90+ days pre-release
 - **Hogg**: [NEEDED: exact initiative/RFP]
 
 ## Information Needed to Complete the Build
 
 See [`open_questions.md`](open_questions.md) for the full list. Key items:
 - Hogg Foundation opportunity name and restrictions
-- OJJDP SCA Category 2: specific FY solicitation number, award ceiling, deadline, and match requirement
+- OJJDP SCA Category 2: application deadline and cost-sharing/match requirement
 - MHPS and Peer Supervisor budget confirmation
 - Staff split-funding decisions and allocation basis

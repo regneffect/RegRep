@@ -14,7 +14,7 @@
 ```
 OAFC_CCRB          (state)
 HOGG_CCRB_CAP      (philanthropy) [NEEDED: exact initiative name]
-OJJDP_CCRB         (federal) SCA Youth Offender Reentry Program, Category 2 [NEEDED: FY and solicitation number when published]
+OJJDP_CCRB         (federal) FY25 SCA Youth Reentry, Cat 2 (O-OJJDP-2025-172511 / C-OJJDP-2025-00024-PROD; 16.812; anticipated $750,000)
 ```
 
 ### Cost Objective Codes (Use Across ALL Funds)

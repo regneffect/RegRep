@@ -1,4 +1,4 @@
-FILLED INPUT TEMPLATE EXAMPLE (OAFC defined; OJJDP SCA Category 2 partially specified; Hogg placeholders kept as [NEEDED])
+FILLED INPUT TEMPLATE EXAMPLE (OAFC defined; OJJDP FY25 SCA Cat 2 specified; Hogg placeholders kept as [NEEDED])
 
 [DOC:OAFC_App]
 - Program: Court-Connected Recovery Bridge (CCRB)
@@ -36,7 +36,7 @@ B) STAFF ROLE MAPPING (labels only)
 C) FUNDERS TO BRAID
 - OAFC: state opioid abatement (defined in OAFC docs)
 - Hogg: [NEEDED: exact initiative/RFP name + restrictions]
-- OJJDP: Second Chance Act (SCA) Youth Offender Reentry Program, Category 2 (Strengthening Community-Based Youth Reentry Programs). Requires MOA/MOU with correctional agencies, prerelease case planning 90+ days pre-release, evidence-based post-release case management, validated risk/needs assessment. Application: SF-424 via Grants.gov + JustGrants. SAM.gov registration 30+ days before deadline. [NEEDED: FY solicitation number, award ceiling, deadline, Category 2 match requirement]
+- OJJDP: FY25 Second Chance Act Youth Reentry Program, Category 2 (C-OJJDP-2025-00024-PROD; O-OJJDP-2025-172511; 16.812; anticipated $750,000; released Feb 18 2026). Statutory authority: Section 211 SCA (34 U.S.C. § 60531). Requires MOA/MOU with correctional agencies, prerelease case planning 90+ days pre-release, evidence-based post-release case management, validated risk/needs assessment. Application: SF-424 via Grants.gov + JustGrants. SAM.gov registration 30+ days before deadline. [NEEDED: application deadline, Category 2 match requirement]
 
 D) ALLOCATION PREFERENCES
 - Will staff split time across awards? [NEEDED]
