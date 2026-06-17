@@ -10,6 +10,7 @@
 - [[01_Active/Active Projects]]
 - [[05_Queue/Claude Queue]]
 - [[06_Calendar/Weekly Plan]]
+- [[03_Systems/Operating Routine]] — daily/weekly habit
 
 ## Daily Use
 
