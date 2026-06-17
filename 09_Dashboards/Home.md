@@ -1,7 +1,10 @@
 # Reggie OS Dashboard
 
+## 📖 New here? Read the [[MANUAL]] — step-by-step on how to use everything.
+
 ## Start Here
 
+- [[MANUAL]] — how to use the system
 - [[Claude]]
 - [[00_Capture/Capture]]
 - [[01_Active/CMU Operations]] — daily ops cockpit
