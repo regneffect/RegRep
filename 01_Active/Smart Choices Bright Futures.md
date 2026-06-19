@@ -63,10 +63,10 @@ Generate the Smart Choices funder/compliance report from the outcomes data.
 Update the Smart Choices lane / log a program decision.
 ```
 
-**Curriculum & evaluation** (Obsidian knowledge work → `04_Generated/`)
-```text
-Draft a facilitator guide / lesson plan / evaluation design for Module [n].
-```
+**Curriculum & evaluation** — use the two curriculum agents (Obsidian knowledge work → `04_Generated/`)
+- Build: [[Agent - Curriculum Developer]] → *"Act as the Curriculum Developer. Build a lesson plan for Module [n]."*
+- Review: [[Agent - Curriculum Evaluator]] → *"Act as the Curriculum Evaluator. Score Module [n] against the rubric."*
+- Loop: develop → evaluate → revise until it's Ready to teach.
 
 **Funding** → `grant-master` + `rss-scorer`
 ```text

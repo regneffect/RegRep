@@ -39,6 +39,11 @@ Pull from `Claude.md` Weekly Priorities.
 - Connect the Dots
 - Revenue / Consulting / Licensing
 
+## Curriculum Agents
+
+- [[03_Systems/Agent - Curriculum Developer]] — builds curriculum
+- [[03_Systems/Agent - Curriculum Evaluator]] — stress-tests it
+
 ## Claude Workflows
 
 - [[03_Systems/Morning Briefing Workflow]]
