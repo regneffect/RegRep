@@ -141,15 +141,21 @@ Two small schema adds (`Health`, `Advisor Review`) close the gap. Both are addit
 
 ---
 
-## 6. Promotion-to-Notion checklist (GOVERNANCE-GATED — needs Reggie)
+## 6. Promotion-to-Notion checklist — PROMOTED 2026-06-19 (Option A)
 
-Nothing below is done yet. Each is a side-effectful Notion write requiring the cmu-orchestrator pre-check + confirmation pause:
-
-- [ ] **Decide altitude:** Option A (objectives as parent lanes + self-relation) vs Option B (grouped view only)
-- [ ] **Schema add:** `Health` select + `Advisor Review` select on Lanes DB
-- [ ] **Create 7 objective lane rows** (if Option A); relate existing initiatives as children
-- [ ] **Backfill** each objective page body with its Lane Brief (§4)
-- [ ] **Fix** Quest aggregate view grouping (Session Type / Mentor, not Site)
+- [x] **Altitude:** Option A chosen — objectives are parent lanes; initiatives roll up via `Parent Objective` ⇄ `Child Lanes` self-relation.
+- [x] **Schema add:** `Health` select + `Advisor Review` select on Lanes DB.
+- [x] **Created 7 objective lane rows** (titled `🎯 …`, no page icon, Last Reviewed 2026-06-19):
+  - Smart Choices Delivery `384203141f4c81b7968bc7059062dffe`
+  - Quest Youth Engagement `384203141f4c81658e39c4decd3ffd03`
+  - Hotel / Recovery Housing Project `384203141f4c8134a00bdfdb15b6db89`
+  - Funding & Grants `384203141f4c81cd8c98ca8049aea467`
+  - Partnerships & Contracts `384203141f4c8178ae13e867a24afa32`
+  - Public Voice / Journalism `384203141f4c8111b749e8d93925f845`
+  - Staff & Operations `384203141f4c81b5a282e527c2fc0cfd`
+- [x] **Linked initiatives → parents:** HCJPD PO #1 Billing → Staff & Ops; Recovery Housing/Hotel → Hotel; TCMI → Quest (Reggie-confirmed 2026-06-19); OJJDP SCA + OJJDP FY25 + Safe Schools → Funding & Grants.
+- [x] **Backfilled** each objective page body with its Lane Brief (§4).
+- [x] **Fixed** Quest aggregate view grouping → now GROUP BY Session Type (was Site); filter `Session Type != SCBF Group` preserved.
 
 ---
 
